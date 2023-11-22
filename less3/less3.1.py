@@ -1,0 +1,7 @@
+print("Kakoy vid vashego pitomca?")
+p = input()
+print("Skolko let vashemy pitomcy?")
+a = input()
+print("Kakaya klicka y vashego pitomca?")
+n = input()
+print ("Eto", p, "po klichke", n, ".Vozvrast:", a, "goda.")
